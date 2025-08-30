@@ -18,12 +18,14 @@ A Solana sniper bot that:
 ---
 
 ## Project Structure
-.
-├── bot.js # Main sniper bot logic
-├── monitor.js # Stop-loss monitoring
-├── telegram.js # Telegram notification system
-├── .env # Environment variables
-└── README.md # Project documentation
+    
+    ```bash
+    .
+    ├── bot.js # Main sniper bot logic
+    ├── monitor.js # Stop-loss monitoring
+    ├── telegram.js # Telegram notification system
+    ├── .env # Environment variables
+    └── README.md # Project documentation
 
 
 ---
