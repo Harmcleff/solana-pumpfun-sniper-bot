@@ -54,7 +54,7 @@ Add the following variables to your .env file:
 
 ---
 
-**How It Works**
+# How It Works
 
 The bot connects to PumpFun to fetch new tokens.
 
@@ -64,7 +64,9 @@ monitor.js continuously checks token prices against stop-loss levels.
 
 telegram.js sends trade notifications to your Telegram group or channel.
 
-**Warning**
+---
+
+# Warning
 
 This bot interacts with real tokens on Solana mainnet.
 
