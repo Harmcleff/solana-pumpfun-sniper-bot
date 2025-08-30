@@ -75,3 +75,7 @@ Use at your own risk.
 Always test with small amounts first.
 
 The authors are not responsible for any financial losses.
+
+# Example Output
+
+![Alt text](./screenshot/token1-bought.jpg)
