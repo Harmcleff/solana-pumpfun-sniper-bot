@@ -20,13 +20,13 @@ A Solana sniper bot that:
 ## Project Structure
     
     ```bash
-    .
-    ├── bot.js # Main sniper bot logic
-    ├── monitor.js # Stop-loss monitoring
-    ├── telegram.js # Telegram notification system
-    ├── .env # Environment variables
-    └── README.md # Project documentation
-
+    ├── index.js # Main listener / WebSocket + flow
+    ├── swapClient.js # Buy/Sell via Jupiter API
+    ├── monitor.js # Stop-loss / monitoring loop
+    ├── telegramNotifier.js # Telegram notifications
+    ├── lib/
+    │ └── config.js # RPC, wallet, SDK init
+    ├── wallet.json # Local keypair (DO NOT COMMIT)
 
 ---
 
