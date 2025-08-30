@@ -78,6 +78,10 @@ The authors are not responsible for any financial losses.
 
 # Example Output
 
+![Alt text](./screenshot/cli.jpg)
+
+--
+
 ![Alt text](./screenshot/token1-bought.jpg)
 ![Alt text](./screenshot/token1-sold.jpg)
 
